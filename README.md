@@ -8,9 +8,11 @@ See the posting at thisoldgeek.blogspot.com
 
 ## *Required Hardware:*
 * Adafruit Feather Fona
+* Adafruit SSD1306 (or similar)
 * LiPo Battery - 1250mAh min
 * Small Speaker
-* NeoPixel Jewel
+* Adafruit NeoPixel Jewel
+* Adafruit LED Sequins
 * Electret Microphone
 * pushbutton on/off switch
 
