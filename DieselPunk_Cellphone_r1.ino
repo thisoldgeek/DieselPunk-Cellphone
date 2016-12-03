@@ -1,10 +1,10 @@
 //*******************************************************************
-//  NOTES:  V4
-//  11/20/2016 thisoldgeek
+//  NOTES:  V5 - Release 1
+//  12/03/2016 thisoldgeek
 //  - Makes and answers calls
 //  - Flashlight
 //  - Favorites added and working
-//  - FM Favorites working(??) - check
+//  - FM Favorites working(
 //   Uses 27,666 bytes program memory
 //        1419 bytes dynamic memory
 //*******************************************************************
@@ -146,7 +146,7 @@ int16_t i_16;
 int16_t vbat;  // battery level
 
 // Store your favorite phone numbers here 
-char favorites[][20]={"9252124163","9254515622","7074419401","9254879561","18003222702"};
+char favorites[][20]={"9255551212","9255551212","7075551212","9255551212","18005551212"};
 // don't forget to change the names in the display routine for favs!
 
 // Store your favorite FM station frequencies here
