@@ -7,7 +7,8 @@ A minimal cellphone fashioned in "DieselPunk" style. DieselPunk is akin to Steam
 In the artwork supplied, I'm using the free downloadable Deco typefont from Nick Curtis, called "Dubba Dubba". If you like Nick's work, please contribute a few $$ at: 
 http://www.1001fonts.com/search.html?search=dubba+dubba&x=10&y=6
 
-See the posting at thisoldgeek.blogspot.com 
+See the posting at:
+http://thisoldgeek.blogspot.com/2016/12/dieselpunk-cellphone-walnut-case_42.html
 
 ## *Required Hardware:*
 * Adafruit Feather Fona
