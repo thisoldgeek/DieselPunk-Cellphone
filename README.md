@@ -4,8 +4,7 @@
 ## *Description:*
 A minimal cellphone fashioned in "DieselPunk" style. DieselPunk is akin to SteamPunk - a modern object re-imagined as if it were made in the era from the 1930's to 1950's.
 
-In the artwork supplied, I'm using the free downloadable Deco typefont from Nick Curtis, called "Dubba Dubba". If you like Nick's work, please contribute a few $$ at: 
-http://www.1001fonts.com/search.html?search=dubba+dubba&x=10&y=6
+In the as-built version of this project, I used the Aeronaut font available for purchase from: http://davidocchino.com/portfolio/typography/aeronaut.html#purchase. You can buy a non-commercial license on that site. In the artwork supplied here, I'm using the free downloadable Deco typefont from Nick Curtis, called "Dubba Dubba". If you like Nick's work, please contribute a few $$ at: http://www.1001fonts.com/search.html?search=dubba+dubba&x=10&y=6
 
 See the posting at:
 http://thisoldgeek.blogspot.com/2016/12/dieselpunk-cellphone-walnut-case_42.html
@@ -21,7 +20,7 @@ http://thisoldgeek.blogspot.com/2016/12/dieselpunk-cellphone-walnut-case_42.html
 * Electret Microphone
 * pushbutton on/off switch
 
-## *Fabrication:
+## *Fabrication:*
 * CNC milled Walnut - VCarve (*.crv) drawing files supplied
 * Acrylic used for decorations - laser art supplied
 * Art-store add-ons
