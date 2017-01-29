@@ -9,6 +9,7 @@ In the as-built version of this project, I used the Aeronaut font available for 
 See the posting at:
 http://thisoldgeek.blogspot.com/2016/12/dieselpunk-cellphone-walnut-case_42.html
 
+
 ## *Required Hardware:*
 * Adafruit Feather Fona
 * Adafruit SSD1306 (or similar)
@@ -29,3 +30,9 @@ http://thisoldgeek.blogspot.com/2016/12/dieselpunk-cellphone-walnut-case_42.html
 ## *Configuration:*
 * Uses Arduino IDE to test and load sketches to the Feather Fona
 * Minimal changes needed - you may need to format time and date for your locale, or other carrier requirements. Also - need to change Favorite phone numbers and Favorite FM radio stations. 
+
+
+## *Update 01-29-2017:*
+Added a version of drawing/CAD files without a cut-out for the opitional back case badge. These files identified by "NO_BADGE" in the filename. 
+
+
