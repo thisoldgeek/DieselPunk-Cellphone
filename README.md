@@ -71,4 +71,5 @@ Added a version of drawing/CAD files without a cut-out for the opitional back ca
 ## *Update 03-16-2017:*
 Added test programs to verify functionalitY in 'Testing' section. Added setting the SIM module Real-Time Clock in 'Required - RTC' section.
 
-
+## *Update 03-18-2017:*
+Added VCarve Job Setup Sheet Summary
