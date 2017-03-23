@@ -73,3 +73,6 @@ Added test programs to verify functionalitY in 'Testing' section. Added setting 
 
 ## *Update 03-18-2017:*
 Added VCarve Job Setup Sheet Summary
+
+## *Update 03-22-2017:*
+Obscured Favorite phone numbers
