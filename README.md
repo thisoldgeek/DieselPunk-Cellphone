@@ -69,7 +69,7 @@ After it registers AT+CCLK? will respond with the correct time, as in my case:
 Added a version of drawing/CAD files without a cut-out for the opitional back case badge. These files identified by "NO_BADGE" in the filename. 
 
 ## *Update 03-16-2017:*
-Added test programs to verify functionalitY in 'Testing' section. Added setting the SIM module Real-Time Clock in 'Required - RTC' section.
+Added test programs to verify functionality in 'Testing' section. Added setting the SIM module Real-Time Clock in 'Required - RTC' section.
 
 ## *Update 03-18-2017:*
 Added VCarve Job Setup Sheet Summary
