@@ -76,3 +76,6 @@ Added VCarve Job Setup Sheet Summary
 
 ## *Update 03-22-2017:*
 Obscured Favorite phone numbers
+
+## *Update 04-22-2017:*
+Minor corrections on VCarve files and Job Setup Sheets
